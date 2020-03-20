@@ -70,7 +70,7 @@ const routes: Routes = [{
     },
     {
       path: '',
-      redirectTo: 'stronger-mind',
+      redirectTo: 'calmed-soul',
       pathMatch: 'full',
     },
     {
